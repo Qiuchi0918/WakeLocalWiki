@@ -1,0 +1,22 @@
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe.config
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe.manifest
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Release\WakeLocalWiki.application
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Release\WakeLocalWiki.pdb
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.csprojAssemblyReference.cache
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.csproj.CoreCompileInputs.cache
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.exe.manifest
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.application
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.exe
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Release\WakeLocalWiki.pdb
+D:\Library\Repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe.config
+D:\Library\Repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe.manifest
+D:\Library\Repos\WakeLocalWiki\bin\Release\WakeLocalWiki.application
+D:\Library\Repos\WakeLocalWiki\bin\Release\WakeLocalWiki.exe
+D:\Library\Repos\WakeLocalWiki\bin\Release\WakeLocalWiki.pdb
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.csprojAssemblyReference.cache
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.csproj.CoreCompileInputs.cache
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.exe.manifest
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.application
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.exe
+D:\Library\Repos\WakeLocalWiki\obj\Release\WakeLocalWiki.pdb

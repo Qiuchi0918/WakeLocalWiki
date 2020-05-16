@@ -1,0 +1,22 @@
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe.config
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.pdb
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.csproj.CoreCompileInputs.cache
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.exe
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.pdb
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe.manifest
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.application
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.exe.manifest
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.application
+C:\Users\Qiu\OneDrive\文档\Visual Studio 2019\source\repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.csprojAssemblyReference.cache
+D:\Library\Repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe.config
+D:\Library\Repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe.manifest
+D:\Library\Repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.application
+D:\Library\Repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.exe
+D:\Library\Repos\WakeLocalWiki\bin\Debug\WakeLocalWiki.pdb
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.csprojAssemblyReference.cache
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.csproj.CoreCompileInputs.cache
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.exe.manifest
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.application
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.exe
+D:\Library\Repos\WakeLocalWiki\obj\Debug\WakeLocalWiki.pdb
